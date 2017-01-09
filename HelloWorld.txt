@@ -1,1 +1,3 @@
-Hello world, it’s me, git!
+Hello world, it’s me, Kelsey!
+
+Learning git is going to be very useful, I can tell!
