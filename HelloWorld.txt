@@ -1,3 +1,5 @@
 Hello world, it’s me, Kelsey!
 
 Learning git is going to be very useful, I can tell!
+
+Now I am adding text from within a new branch.
